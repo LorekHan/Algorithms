@@ -8,10 +8,11 @@ The advantages indlude:
   - Reducing all meaningless string comparison.  
   - A better query efficiency than Hash Tree.
   
+  
 ## Structure
-![image](https://user-images.githubusercontent.com/116987376/199016899-383de9ec-d78e-487b-a88c-31caa8e9a1a9.png)
+![image](https://user-images.githubusercontent.com/116987376/199016899-383de9ec-d78e-487b-a88c-31caa8e9a1a9.png)  
 This Trie stores four words: cat, god, deer and panda. Dog and deer share a node 'd'.
-
+- In practice, we may use collections.defaultdict() to build a trie.  
 ## Code
 
 ### Basic Trie Node Structure

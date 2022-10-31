@@ -1,8 +1,0 @@
-Trie is also called prefix tree or word search tree. It's a variation structure of hash tree.  
-Trie is good at saving and searching strings.  
-The advantages indlude:  
-  - Using public prefix of strings to reduce query time.  
-  - Reducing all meaningless string comparison.  
-  - A better query efficiency than Hash Tree.
-  
-  

@@ -1,4 +1,4 @@
-# A solution to leetcode 720
+# A solution of leetcode 720
 
 class Trie:
     def __init__(self):
